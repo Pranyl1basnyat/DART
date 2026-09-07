@@ -1,0 +1,9 @@
+// Question no1
+// Create a function called sayHello() that prints Hello,Pranil
+
+
+void sayHello(){
+
+print("Hello ,Pranil");
+
+}
